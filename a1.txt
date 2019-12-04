@@ -3,4 +3,6 @@ git diff 当文件没提交前使用.查看文件和版本库中的差别
 asdasasdasda 
 aaa
 
-sdasd
+sdas
+
+d
